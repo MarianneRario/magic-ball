@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MagicBall</string>
+    <string name="ask_button">ASK A QUESTION</string>
+    <string name="decision_text">Dare to ask questions...</string>
+</resources>
